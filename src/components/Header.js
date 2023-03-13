@@ -12,7 +12,9 @@ function Header() {
 
 <NavLink to="usage"><span>usage</span></NavLink>
 
+
 <NavLink to="chart"><span>Chart</span></NavLink> 
+<NavLink to="contact"><span>Contact</span></NavLink> 
     </div>
   )
 }
